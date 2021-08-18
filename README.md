@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GPT-3 Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app that will use OpenAI's GPT-3 to provide thoughtful, AI generated answers to user's questions
 
 ## Available Scripts
 
